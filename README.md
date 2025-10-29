@@ -3,7 +3,7 @@
 <!-- =========================================================== -->
 
 <p align="center">
-  <img src="./images/banner.png" alt="HWAI Technology Banner" width="700"/>
+  <img src="./images/banner.png" alt="HWAI Technology Banner" width="900"/>
 </p>
 
 <h1 align="center">HWAI Technology</h1>
