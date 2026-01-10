@@ -70,12 +70,12 @@ Cloud: Oracle Cloud, AWS, Google Cloud
 
 | Name                            | GitHub                                               | Role                                    |
 | ------------------------------- | ---------------------------------------------------- | --------------------------------------- |
-| 🧑‍💻 **Eng. Ahmet Asaad Hammoud** | [@Eng-Ahmet](https://github.com/Eng-Ahmet)           | Founder & Software Engineer             |
-| 👩‍💻 **Dania Ketaz**              | [@Daniaketaz](https://github.com/Daniaketaz)         | Back-End Developer & Software Engineer  |
-| 👩‍💻 **Leen Alkour**              | [@LeenAlkour](https://github.com/LeenAlkour)         | Front-End Developer & Software Engineer |
-| 👩‍💻 **Maya Shakko**              | [@mayashakko2001](https://github.com/mayashakko2001) | Back-End Developer & Software Engineer  |
-| 👩‍💻 **Rania Alshebli**           | [@RaniaAlshebli](https://github.com/RaniaAlshebli)   | Front-End Developer & Software Engineer |
-| 👩‍💻 **Halakamon**                | [@halakamon](https://github.com/halakamon)           | Front-End Developer & Software Engineer |
+| 🧑‍💻 **Eng.Ahmet Asaad Hammoud** | [@Eng-Ahmet](https://github.com/Eng-Ahmet)           | Founder & Software Engineer             |
+| 👩‍💻 **Eng.Dania Ketaz**              | [@Daniaketaz](https://github.com/Daniaketaz)         | Back-End Developer & Software Engineer  |
+| 👩‍💻 **Eng.Leen Alkour**              | [@LeenAlkour](https://github.com/LeenAlkour)         | Front-End Developer & Software Engineer |
+| 👩‍💻 **Eng.Maya Shakko**              | [@mayashakko2001](https://github.com/mayashakko2001) | Back-End Developer & Software Engineer  |
+| 👩‍💻 **Eng.Rania Alshebli**           | [@RaniaAlshebli](https://github.com/RaniaAlshebli)   | Front-End Developer & Software Engineer |
+| 👩‍💻 **Eng.Halakamon**                | [@halakamon](https://github.com/halakamon)           | Front-End Developer & Software Engineer |
 
 ---
 
