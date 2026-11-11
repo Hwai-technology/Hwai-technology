@@ -71,10 +71,8 @@ Cloud: Oracle Cloud, AWS, Google Cloud
 | Name                             | GitHub / LinkedIn / Portfolio                                                                                                                               | Role                         |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | 🧑‍💻 Eng.Ahmet Asaad Hammoud    | [GitHub](https://github.com/Eng-Ahmet) / [Portfolio](https://cv-qjok.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/ahmet-asaad-hammoud-8bb455230) | Founder & Head of Technology |
-| 👨‍💻 Eng.Abdul Jalel Alismaael  | [GitHub](https://github.com/ABDULJALEL98) / [LinkedIn](https://www.linkedin.com/in/abdul-jalel-alismaael-552132287/)                                        | Senior Backend Developer     |
 | 👩‍💻 Eng.Maya Yazan Shakko      | [GitHub](https://github.com/mayashakko2001) / [Portfolio](https://cv-azey.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/maya-shakko/)             | Lead Frontend Engineer       |
 | 👨‍💻 Eng.Abdallah Asaad Hammoud | [LinkedIn](https://www.linkedin.com/in/abdallah-asaad-hammoud-ba51a0310/) / [Portfolio](https://cv-9aw3.onrender.com/)                                      | Quality Assurance Engineer   |
-| 👨‍💻 Abdullah Houso             | [LinkedIn](https://www.linkedin.com/in/abdullahhouso/)                                                                                                      | DevOps Specialist            |
 
 ---
 
